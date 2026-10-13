@@ -1,0 +1,16 @@
+{
+  "name": "desplegando-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "nodemon index.js",
+  "start": "node index.js"
+},
+  "author": "rickyushinahua-rgb <ricky.ushinahua@tecsup.edu.pe>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "dotenv": "^18.0.7",
+    "nodemon": "^3.1.14"
+  }
+}
